@@ -19,5 +19,7 @@ Open `index.html` in a browser. The site uses plain HTML, CSS and JavaScript; th
 - `assets/cdk-logo-transparent.png` — CDK crest with the surrounding blue background removed.
 - `assets/solar-4g-camera-promo.png` — supplied camera promotion.
 - `assets/paradox-alarm-kit-promo.png` — supplied alarm kit promotion.
+- `assets/cdk-patrol-frere-street.jpg` — supplied Cradock patrol vehicle photo used in a parallax section.
+- `assets/cdk-response-team.jpg` — supplied CDK team and vehicle photo used in a parallax section.
 
 Contact details and product offer information are based on CDK's public listings, Facebook page and supplied promotional images. Confirm that phone numbers, service areas, current stock and special pricing remain accurate before publishing publicly.
