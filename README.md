@@ -21,5 +21,6 @@ Open `index.html` in a browser. The site uses plain HTML, CSS and JavaScript; th
 - `assets/paradox-alarm-kit-promo.png` — supplied alarm kit promotion.
 - `assets/cdk-patrol-frere-street.jpg` — supplied Cradock patrol vehicle photo used in a parallax section.
 - `assets/cdk-response-team.jpg` — supplied CDK team and vehicle photo used in a parallax section.
+- `assets/hero-patrol-truck.jpg`, `assets/hero-solar-site.jpg`, `assets/hero-secure-gate.jpg`, `assets/hero-cctv-monitoring.jpg`, and `assets/hero-road-response.jpg` — supplied photos used in the fading hero slideshow.
 
 Contact details and product offer information are based on CDK's public listings, Facebook page and supplied promotional images. Confirm that phone numbers, service areas, current stock and special pricing remain accurate before publishing publicly.
